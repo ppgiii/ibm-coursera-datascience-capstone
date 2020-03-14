@@ -1,3 +1,4 @@
+## <div align="center">Where is lunch?</div>
 ### Background
 
 Food trucks are a common sight in the city of San Francisco.  Its popularity due to convenience, prices, variety, and availability makes them welcomed for office workers, some of whom do not have a long lunch hour.  
