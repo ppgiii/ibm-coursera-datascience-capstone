@@ -33,7 +33,7 @@ Food truck permit data from DataSF.  It shows the number of food trucks currentl
 Foursquare venue data to show current restaurant businesses in the neighborhood where the commercial estate vacancies are located.  The purpose is to discover the typical cuisine category that is common (will restrict to the top 5 from the list) or not common in the area.
 
 #### References
-www.sfgov.org/scorecards/economy/commercial-real-estate
-www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf
+www.sfgov.org/scorecards/economy/commercial-real-estate  
+www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf  
 www.42floors.com/research/us/ca/san-francisco  
 www.data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat  
