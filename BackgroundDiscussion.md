@@ -3,7 +3,11 @@
 
 Food trucks are a common sight in the city of San Francisco.  Its popularity due to convenience, prices, variety, and availability makes them welcomed for office workers, some of whom do not have a long lunch hour.  
 
-A prospective food truck operator might be able to glean some information from a certain commercial real estate metric that would allow him/her to anticipate where to locate their truck.
+
+### Problem Statement
+
+*A prospective food truck operator can use the commercial real estate vacancy in a neighborhood to predict where the food truck can be located for the year.*
+
 
 ### Introduction
 
@@ -19,6 +23,9 @@ This could lead to a higher number of customers for someone looking to place a f
 
 
 This study will also include a list of restaurant categories that are common to a particular neighborhood.  It is up to the client to decide whether having less common cuisine may entice fresh offerings to the area versus more common cuisine offering that assures familiarity might deliver a profitable strategy.  Restaurants present a main competitor to any food truck operator and this is where its mobility comes into focus.
+
+
+### Target Audience
 
 The most suitable target audience for this study will be entrepreneurs planning to operate food trucks.  Due to its mobility, it can anticipate where to go based on the likelihood a neighborhood will have an increase in new businesses, in turn an increase in customers.  Food truck operators are required to apply for permits every year.  This includes the location of where the truck will be for the duration of the year.  In addition, certain locations can only accommodate a certain number of trucks.
 
