@@ -41,7 +41,7 @@ As for the permit dataset, the 3 column data was used as the training set for th
 ![notebook5](./notebook5.png)
 ![Civic Center](./civiccenter.png)*SF Civic Center*
 
-To obtain the list of restaurant in a given neighborhood (this was the hard part), I had to break down the steps in 3 ways.  The first is to prepare the Foursquare API to retrieve the list.  Next, using the course lab codes, I parse the list to obtain the top 5 common restaurant cuisines.  The last step is to prepare the table showing the list.
+To obtain the list of restaurant in a given neighborhood (this was the hard part), I had to break down the steps in 3 ways.  The first is to prepare the Foursquare API to retrieve the list.  Next, using the course lab codes, I parse the list to obtain the top 5 common restaurant cuisines.  The last step is to prepare the table showing the list.  See Appendix A of the report for the table listing the top 5 common restaurant cuisines.
 
 The final map shows the neighborhood where the office space vacancy is located along with a cluster of food trucks.
 ![notebook6](./notebook6.png)
